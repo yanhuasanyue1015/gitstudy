@@ -1,2 +1,2 @@
 重新学习下git,加深理解
-啦啦啦 
+Creating a new branch is quick. 
