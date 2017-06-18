@@ -1,1 +1,1 @@
-add /ushr/bin/env
+add /user/bin/env
