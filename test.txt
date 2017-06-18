@@ -1,1 +1,1 @@
-add /usr/bin/env
+add /user/bin/env
